@@ -1,6 +1,6 @@
 package preDefinedMethods;
 
-public class Math {
+public class Math1 {
 	
 	
 	public void addition()
@@ -26,7 +26,7 @@ public class Math {
 		
 		//create a object of the class
 		//className object= new ClassName();
-		Math m=new Math();// create m object of class Math
+		Math1 m=new Math1();// create m object of class Math
 		m.addition();
 		m.subraction();
 		m.addition();
