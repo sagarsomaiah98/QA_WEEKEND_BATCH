@@ -27,3 +27,6 @@
 2023-03-19 11:19:04,136 [Worker-43: Debug Source Lookup] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/zeromq/jeromq/0.5.3/jeromq-0.5.3-sources.jar
 2023-03-19 11:19:04,286 [Worker-43: Debug Source Lookup] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/zeromq/jeromq/0.5.3/jeromq-0.5.3-sources.jar
 2023-04-01 08:27:38,580 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-04-01 10:03:13,301 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-02 03:06:37,542 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-02 10:18:52,737 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
