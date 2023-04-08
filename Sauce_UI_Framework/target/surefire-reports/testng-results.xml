@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-08T12:01:49 GMT-04:00" name="Surefire suite" finished-at="2023-04-08T12:02:05 GMT-04:00" duration-ms="15997">
+    <groups>
+    </groups>
+    <test started-at="2023-04-08T12:01:49 GMT-04:00" name="Surefire test" finished-at="2023-04-08T12:02:05 GMT-04:00" duration-ms="15997">
+      <class name="testcases.LoginTest">
+        <test-method is-config="true" signature="intialization()[pri:0, instance:testcases.LoginTest@290d210d]" started-at="2023-04-08T12:01:56 GMT-04:00" name="intialization" finished-at="2023-04-08T12:01:59 GMT-04:00" duration-ms="3185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialization -->
+        <test-method signature="validLoginTest()[pri:1, instance:testcases.LoginTest@290d210d]" started-at="2023-04-08T12:01:59 GMT-04:00" name="validLoginTest" finished-at="2023-04-08T12:02:00 GMT-04:00" duration-ms="632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLoginTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.LoginTest@290d210d]" started-at="2023-04-08T12:02:00 GMT-04:00" name="teardown" finished-at="2023-04-08T12:02:00 GMT-04:00" duration-ms="512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="intialization()[pri:0, instance:testcases.LoginTest@290d210d]" started-at="2023-04-08T12:02:00 GMT-04:00" name="intialization" finished-at="2023-04-08T12:02:04 GMT-04:00" duration-ms="3174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialization -->
+        <test-method signature="InvalidLoginTest()[pri:2, instance:testcases.LoginTest@290d210d]" started-at="2023-04-08T12:02:04 GMT-04:00" name="InvalidLoginTest" finished-at="2023-04-08T12:02:04 GMT-04:00" duration-ms="539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidLoginTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.LoginTest@290d210d]" started-at="2023-04-08T12:02:04 GMT-04:00" name="teardown" finished-at="2023-04-08T12:02:05 GMT-04:00" duration-ms="375" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testcases.LoginTest -->
+      <class name="testcases.AddtocartTest">
+        <test-method is-config="true" signature="intialization()[pri:0, instance:testcases.AddtocartTest@6b419da]" started-at="2023-04-08T12:01:49 GMT-04:00" name="intialization" finished-at="2023-04-08T12:01:55 GMT-04:00" duration-ms="6383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialization -->
+        <test-method signature="addtocartest()[pri:0, instance:testcases.AddtocartTest@6b419da]" started-at="2023-04-08T12:01:55 GMT-04:00" name="addtocartest" finished-at="2023-04-08T12:01:56 GMT-04:00" duration-ms="669" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtocartest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.AddtocartTest@6b419da]" started-at="2023-04-08T12:01:56 GMT-04:00" name="teardown" finished-at="2023-04-08T12:01:56 GMT-04:00" duration-ms="407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testcases.AddtocartTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

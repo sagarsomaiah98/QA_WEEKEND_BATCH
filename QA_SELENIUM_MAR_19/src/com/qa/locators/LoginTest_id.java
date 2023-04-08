@@ -10,6 +10,7 @@ public class LoginTest_id {
 		
 		WebDriver driver = new FirefoxDriver();
 		driver.manage().window().maximize();
+		//driver.manage().window().max();
 		driver.get("https://www.saucedemo.com");
 		
 		driver.findElement(By.id("user-name")).sendKeys("standard_user");
